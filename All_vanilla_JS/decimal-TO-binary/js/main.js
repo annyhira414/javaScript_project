@@ -16,6 +16,7 @@ function converter(e){
     }
 
      binaryNumber = Number(number).toString(2);
+    
      result.innerHTML = binaryNumber;
 
   
